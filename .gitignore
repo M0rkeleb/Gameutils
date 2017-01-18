@@ -45,3 +45,14 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.idb
+Debug/Gameutils.log
+*.obj
+*.tlog
+Gameutils.vcxproj
+*.filters
+Debug/Gameutils.pch
+*.pdb
+stdafx.cpp
+stdafx.h
+targetver.h
