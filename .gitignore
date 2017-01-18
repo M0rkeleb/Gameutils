@@ -45,14 +45,15 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-*.idb
-Debug/Gameutils.log
-*.obj
+ConnectFour/ConnectFour.vcxproj
+*.vcxproj
+ConnectFour/ConnectFour.vcxproj.filters
 *.tlog
-Gameutils.vcxproj
-*.filters
-Debug/Gameutils.pch
+ConnectFour/Debug/ConnectFour.tlog/ConnectFour.lastbuildstate
+*.cache
+*.idb
+*.log
+*.obj
 *.pdb
-stdafx.cpp
-stdafx.h
-targetver.h
+Gameutils.vcxproj.filters
+Gameutils.vcxproj.user

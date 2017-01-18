@@ -1,6 +1,4 @@
 #pragma once
-
-#pragma once
 #include <string>
 #include <vector>
 
@@ -10,7 +8,7 @@ std::string getPlayerName(std::istream &inRead);
 struct GamePlayer
 {
 	std::string playerName;
-	int playerNumber;
+	std::size_t playerNumber;
 	char playerIdentShort;
 };
 
