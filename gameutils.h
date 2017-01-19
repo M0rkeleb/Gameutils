@@ -35,4 +35,18 @@ T getInput(std::istream &inRead, std::ostream &outRead, std::string prompt, T &u
 	}
 }
 
+class GameBoard
+{
+public:
+	GameBoard()
+	{
+	}
+
+	~GameBoard()
+	{
+	}
+
+private:
+
+};
 
